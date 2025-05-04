@@ -22,10 +22,10 @@ Each member works on a personal branch:
 
 Main group work will be merged into the main branch.
 
-1.App design
-        Description: Create wireframes for the main screens of the NoteCo app.
-        Assignee: Mark, Ei Ei Khaing, Sandar Win. Sovandaniel
-        Labels: design, wireframe
+# 1.App design
+- Description: Create wireframes for the main screens of the NoteCo app.
+- Assignee: Mark, Ei Ei Khaing, Sandar Win. Sovandaniel
+- Labels: design, wireframe
 2. Write project proposal
         Description: Draft the initial project proposal document
         Assignee: Mark
