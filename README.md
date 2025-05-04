@@ -52,5 +52,9 @@ Main group work will be merged into the main branch.
    
 ## 7. Prepare final slide presentation
 - Description: Design and compile the final presentation slides.
-- Assignee: Sandar win, Eii Ei Khaing.
+- Assignee: Sandar win, Eii Ei Khaing
+.
 - Labels: presentation
+
+## Report
+[Projectoverview.docx](https://github.com/user-attachments/files/20026897/Projectoverview.docx)
